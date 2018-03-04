@@ -17,5 +17,5 @@ Resources:
             Value: "CF"
         - 
             Key: "Class"
-            Value: "iaccpk"	
+            Value: "iaccpk"
       
